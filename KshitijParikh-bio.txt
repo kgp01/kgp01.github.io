@@ -1,0 +1,4 @@
+Kshitij Parikh is an undergraduate researcher at IIT Jodhpur, India. He works on 
+computer vision, natural language processing and deep learning. He is currently 
+pursuing a B.Tech in Computer Science and Engineering from the Indian Institute of
+Technology Jodhpur.
